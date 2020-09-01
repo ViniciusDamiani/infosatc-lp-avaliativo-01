@@ -2,12 +2,10 @@
 
 <p align="top">
 <a href="https://web.satc.edu.br/"><img src="Logosatc.png" width="210" heigth="140"></a></p>
-</p>
 
 <font face="Bahnschrift Condensed" size="7" color="#C1CDC1">
 <p align="center">
 Curso Técnico de Informática
-<hr size="4" width="450" color="#0E0B16">
 </p>
 </font>
 
@@ -18,6 +16,7 @@ Curso Técnico de Informática
 <details>
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
 &#x1F4BB;Cursando Informática no Colégio Satc <br> 
+&#x1F497;Turma 2137 <br>
 &#x1F4BB;Aluno do 2° ano E.M do Colégio Satc <br>
 &#x1F575;Futuro estagiário <br>
 &#x1F5FA;Cricíuma-SC	
@@ -69,8 +68,6 @@ Curso Técnico de Informática
 </details>
 
 <br>
-
-<hr size="4" width="450" color="#0E0B16">
 
 <font face="Bahnschrift Condensed" size="5" color="#778899">
 <p align = "center">&#x1F3C3; Pyton &#x1F40D;	
