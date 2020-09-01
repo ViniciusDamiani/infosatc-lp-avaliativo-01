@@ -1,17 +1,16 @@
 <html><head>
 
-<p align="top">
+<p align="center">
 <a href="https://web.satc.edu.br/"><img src="Logosatc.png" width="210" heigth="140"></a></p>
 
-<font face="Bahnschrift Condensed" size="7" color="#C1CDC1">
-<p align="center">
-Curso Técnico de Informática
-</p>
-</font>
+
+<h2> Curso Técnico de Informática </h2>
+
+<br>
 
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
 <p align="left">
-&#x1F920; Olá, eu sou o Vinicius. 
+<h3>&#x1F920;Olá, eu sou o Vinicius.</h3>
 </p></font>
 <details>
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
@@ -34,7 +33,7 @@ Curso Técnico de Informática
 
 <br>
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-&#x1F4BB;Linguagem de Programação.
+<h3>&#x1F4BB;Linguagem de Programação.</h3>
 </font>
 <details>
 <summary> <b>Aqui está os exercícios realizados. </b> </summary>
@@ -54,7 +53,7 @@ Curso Técnico de Informática
 
 <br>
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-&#x1F198;Auto ajuda!
+<h3>&#x1F198;Auto ajuda!</h3>
 </font>
 </details>
 
@@ -70,7 +69,7 @@ Curso Técnico de Informática
 <br>
 
 <font face="Bahnschrift Condensed" size="5" color="#778899">
-<p align = "center">&#x1F3C3; Pyton &#x1F40D;	
+<p align = "center"> &#x1F3C3; Pyton &#x1F40D;
 </p></font>
 <p align = "center">Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 <br>
