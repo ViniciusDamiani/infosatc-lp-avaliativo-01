@@ -76,7 +76,7 @@ Python é uma linguagem de programação de alto nível, interpretada, de script
 <br>
 
 &#x1F4D6;<i>"Não é a linguagem de programação que define o programador, mas sim sua lógica.<br> 
-by: David Ribeiro Guilherme"</i>
+by: David Ribeiro Guilherme"</i> 
 
 <p align = "center">
 <a href = "https://api.whatsapp.com/send?phone=5548996301654&text=Vinicius%20Damiani"><img src="Anuncio.gif" width="180" heigth="100">
