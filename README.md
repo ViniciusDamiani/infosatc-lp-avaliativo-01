@@ -7,8 +7,8 @@
 <font face="Bahnschrift Condensed" size="7" color="#C1CDC1">
 <p align="center">
 Curso Técnico de Informática
-</p><hr size="4" width="600" color="#0E0B16">
-<p></p>
+<hr size="4" width="450" color="#0E0B16">
+</p>
 </font>
 
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
@@ -23,20 +23,22 @@ Curso Técnico de Informática
 &#x1F5FA;Cricíuma-SC	
 
 <br>
+
 &#x1F4F2;Me segue no instagram!
  <p align="left">
  <a href="https://www.instagram.com/vinidamiani_/?hl=pt-br"> <img src="logoinsta.png" width="40" heigth="40"> </a> </p>
 
 &#x1F680;Veja meu desempenho:
  ![ViniciusDamiani's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusDamiani&show_icons=true&theme=radical)  
+
 </details>
 
 <br>
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-&#x1F4BB;Linguagem de Programação
+&#x1F4BB;Linguagem de Programação.
 </font>
 <details>
-<summary> <b>Aqui está os exercícios. </b> </summary>
+<summary> <b>Aqui está os exercícios realizados. </b> </summary>
 &#x1F4C5; Dia: 31/08/2020 <br>
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio7.py">Exercício-7 </a><br> 
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio11.py">Exercício-11 </a><br> 
@@ -53,7 +55,7 @@ Curso Técnico de Informática
 
 <br>
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
-&#x1F198;Auto ajuda
+&#x1F198;Auto ajuda!
 </font>
 </details>
 
@@ -61,18 +63,21 @@ Curso Técnico de Informática
 <summary> <b>Aqui estão armazenados alguns comandos que podem salvar você...</b></summary>
 &#x1F3A8;<a href ="https://www.flextool.com.br/tabela_cores.html">Tabela de cores</a><br>
 &#x1F4C4;<a href ="https://www.w3schools.com/charsets/ref_emoji.asp">Lista de emojis</a><br>
-&#x1F4C4;<a href ="">...</a><br>
-&#x1F4C4;<a href ="">...</a><br>
+&#x1F4C1;<a href ="https://www.notion.so/2137-2-Fase-2020-2-3adf29f4f7534415a02e2fc9c8c527d3">Notion </a><br>
+&#x1F4C4;<a href ="https://pixabay.com/pt/">Imagens para download</a><br>
+&#x1F3B6;<a href ="https://www.youtube.com/watch?v=gXkLQ0gh_GI">Escute e relaxe!</a><br>
 </details>
 
 <br>
+
+<hr size="4" width="450" color="#0E0B16">
+
 <font face="Bahnschrift Condensed" size="5" color="#778899">
-<p align = "center">Pyton
-</font><br>
-Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+<p align = "center">&#x1F3C3; Pyton &#x1F40D;	
+</p></font>
+<p align = "center">Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 <br>
-<img src="codfoto.jpg" width="300" heigth="100">
-</p>
+<img src="codfoto.jpg" width="300" heigth="100"></p>
 <br>
 
 &#x1F4D6;<i>"Não é a linguagem de programação que define o programador, mas sim sua lógica.<br> 
